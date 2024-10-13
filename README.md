@@ -1,5 +1,5 @@
 ##  👋 hi,I'm @1-Adnan-1 (Adnan Sami Altıntaş) Student of Udemig
-- 🔭 I am working on Html-Css
+
 - 👀 I am currently learning Front-end on Udemig
 - I always aim for the most functional, applicable, and readable code.
 
