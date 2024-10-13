@@ -1,16 +1,19 @@
-## Hi there 👋
+##  👋 hi,I'm @1-Adnan-1 (Adnan Sami Altıntaş) Student of Udemig
+- 🔭 I am working on Html-Css
+- 👀 I am currently learning Front-end on Udemig
+- I always aim for the most functional, applicable, and readable code.
 
-<!--
-**1-Adnan-1/1-Adnan-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+. 💬 Ask me about: HTML, CSS
 
-Here are some ideas to get you started:
+. 📫 How to reach me:altintasadnan9@gmail.com  
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+  
+
+
+
+
+
