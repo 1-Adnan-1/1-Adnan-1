@@ -1,9 +1,6 @@
-##  👋 hi,I'm Adnan Sami Altıntaş (Student of Udemig)
+                                                            ## Hi 👋, I'm  Adnan Sami Altıntaş
+A passionate front-end developer from Turkey
 
-- 👀 I am currently learning Front-end on Udemig
-- I always aim for the most functional, applicable, and readable code.
-
-- 💬 Ask me about: HTML, CSS, SCSS,JavaScript
 
 - 📫 How to reach me:altintasadnan9@gmail.com  
  
