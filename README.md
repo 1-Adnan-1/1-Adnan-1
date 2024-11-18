@@ -11,7 +11,7 @@ A passionate front-end developer from Turkey
 
 🤭 I love learning new things and software, I am open to ideas.
 
-- 📫 How to reach me:altintasadnan9@gmail.com  
+📫 How to reach me:altintasadnan9@gmail.com  
  
 
 
