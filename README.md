@@ -12,6 +12,9 @@ A passionate front-end developer from Turkey
 🤭 I love learning new things and software, I am open to ideas.
 
 📫 How to reach me:altintasadnan9@gmail.com  
+
+
+
  
 <p align="left">
 <a href="https://twitter.com/1adnansami1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1adnansami1" height="30" width="40" /></a>
