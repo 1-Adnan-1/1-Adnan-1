@@ -1,17 +1,21 @@
-# Hello 👋, I'm Adnan Sami Altıntaş
-I'm a passionate front-end developer from Turkey
+# Merhaba 👋 ben Adnan Sami Altıntaş
 
-🔭I'm not working in the industry right now.
+- **Türkiye'den** tutkulu bir Front-End Developer, React Developer ve Software Developer olarak, modern web teknolojileriyle kullanıcı dostu, ölçeklenebilir ve performans odaklı uygulamalar geliştirme konusunda bir yazılım geliştiricisiyim.
 
-🌱 I'm currently taking front-end training at Udemig Academy and I'm also studying in the Computer Technologies department, I'm constantly improving myself.
+📚 Şu anda **Udemig** Academy'de front-end eğitimi alıyorum ve ayrıca Bilgisayar Teknolojileri bölümünde okuyorum, kendimi sürekli geliştiriyorum.
 
-🔮 I develop projects with React, Javascript.
+🔮 JavaScript teknolojilerine olan ilgim, modern ve dinamik web uygulamaları geliştirme konusunda beni her geçen gün daha ileriye taşıyor.
 
-💬 Ask me questions about HTML, CSS, React, Javascript
+👨🏻‍💻 Sürekli olarak teknik ve kişisel becerilerimi geliştirmeye odaklanarak profesyonel kariyerimde ilerlemeyi hedefliyorum.
 
-🤭 I love learning new things and software, I'm open to ideas.
+💬 İyi bir iletişim becerisine sahibim, bu sayede ekip içi iş birliği ve projelerde etkin bir şekilde katkıda bulunabiliyorum.
 
-📫 How to reach me:altintasadnan9@gmail.com  
+🔭Şu anda sektörde çalışmıyorum.
+
+🤭 Yeni şeyler ve yazılım öğrenmeyi seviyorum, fikirlere açığım.
+
+
+📫 Bana nasıl ulaşabilirsiniz:altintasadnan9@gmail.com
 
 
 
