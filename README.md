@@ -12,16 +12,13 @@
 📝 Yeni şeyler ve yazılım öğrenmeyi seviyorum, fikirlere açığım.
 
 📫 Bana nasıl ulaşabilirsiniz:altintasadnan9@gmail.com
-<div class="social-media-links">
-  <a href="https://www.linkedin.com/in/adnansamialt%C4%B1nta%C5%9F/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" width="40" height="40"/>
-    LinkedIn
-  </a>
-  <a href="https://x.com/1ADnanSAmi1" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" width="40" height="40"/>
-    Twitter
-  </a>
-</div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/1adnansami1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1adnansami1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adnansamialtıntaş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adnansamialtıntaş" height="30" width="40" /></a>
+<a href="https://instagram.com/adnan.altns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adnan.altns" height="30" width="40" /></a>
+</p>
 
 
 <h4 align="left">Diller ve Araçlar</h4>
