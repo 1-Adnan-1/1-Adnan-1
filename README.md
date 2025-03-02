@@ -13,7 +13,7 @@
 
 📫 Bana nasıl ulaşabilirsiniz:altintasadnan9@gmail.com
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 20;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1-adnan-1&show_icons=true&locale=tr&layout=compact" alt="1-adnan-1" />
   <img src="https://github-readme-stats.vercel.app/api?username=1-adnan-1&show_icons=true&locale=en" alt="1-adnan-1" />
 </div>
