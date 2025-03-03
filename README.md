@@ -74,7 +74,7 @@
     </td>
     <td style="width: 40px;"></td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=1-adnan-1&show_icons=true&locale=tr" alt="1-adnan-1" />
+      <img src="https://github-readme-stats.vercel.app/api?username=1-adnan-1&show_icons=true&locale=en" alt="1-adnan-1" />
     </td>
   </tr>
 </table>
