@@ -4,7 +4,7 @@
 
 🎓 Bilgisayar Teknolojileri bölümünde eğitimime devam ediyorum ve kendimi sürekli olarak geliştirerek teknolojideki yenilikleri yakından takip ediyorum.
 
-💡 JavaScript ve ekosistemi başta olmak üzere, modern ve dinamik web uygulamaları geliştirmeye büyük ilgi duyuyorum. React, Next.js ve TypeScript gibi teknolojilerle aktif projeler geliştiriyorum.
+💡 JavaScript başta olmak üzere, modern ve dinamik web uygulamaları geliştirmeye büyük ilgi duyuyorum. React, Next.js ve TypeScript gibi teknolojilerle aktif projeler geliştiriyorum.
 
 👨🏻‍💻 Teknik becerilerimin yanı sıra iletişim yeteneklerim sayesinde ekip çalışmalarında etkin bir rol alıyor, iş birliği içinde kaliteli projelere imza atıyorum.
 
