@@ -40,11 +40,14 @@
 </p>
 
 ---
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=1-adnan-1&show_icons=true&theme=radical&locale=tr" alt="1-adnan-1-stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-adnan-1&layout=compact&theme=radical&langs_count=10" alt="top-langs" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1-adnan-1&show_icons=true&theme=radical&locale=tr" alt="1-adnan-1-stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-adnan-1&layout=compact&theme=radical&langs_count=10" alt="top-langs" />
-</p>
