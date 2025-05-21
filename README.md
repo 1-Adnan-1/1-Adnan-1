@@ -12,9 +12,6 @@
 
 📫 Bana ulaşmak isterseniz: **altintasadnan9@gmail.com**
 
----
-
-### 🌐 Sosyal Medya
 
 <p align="left">
 <a href="https://twitter.com/1adnansami1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -22,9 +19,7 @@
 <a href="https://instagram.com/adnan.altns" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/></a>
 </p>
 
----
 
-### 🚀 Kullandığım Teknolojiler
 
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>&nbsp;
@@ -44,28 +39,12 @@
 
 ---
 
-### 🏆 GitHub Başarılarım
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1-adnan-1&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="github-trophies" />
-</p>
-
----
-
-### 📈 GitHub Aktivite Grafiğim
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1-adnan-1&theme=radical" alt="streak-stats" />
-</p>
-
----
-
-### 🚀 Aktiflik İstatistiklerim
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1-adnan-1&show_icons=true&theme=radical&locale=tr" alt="1-adnan-1-stats" />
 </p>
 
 ---
 
-### 💻 En Çok Kullandığım Diller
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-adnan-1&layout=compact&theme=radical&langs_count=10" alt="top-langs" />
 </p>
