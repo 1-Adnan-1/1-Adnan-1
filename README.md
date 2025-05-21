@@ -42,11 +42,11 @@
 ---
 <table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=1-adnan-1&show_icons=true&theme=radical&locale=tr" alt="1-adnan-1-stats" />
+     <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-adnan-1&layout=compact&theme=radical&langs_count=10" alt="top-langs" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-adnan-1&layout=compact&theme=radical&langs_count=10" alt="top-langs" />
+      <img src="https://github-readme-stats.vercel.app/api?username=1-adnan-1&show_icons=true&theme=radical&locale=tr" alt="1-adnan-1-stats" />
     </td>
   </tr>
 </table>
