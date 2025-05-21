@@ -89,6 +89,7 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=1-adnan-1&show_icons=true&locale=en" alt="1-adnan-1" />
     </td>
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
   </tr>
 </table>
 
