@@ -14,7 +14,7 @@
 
 ---
 
-<table align="left">
+<table align="center">
   <tr>
     <td>
       <a href="https://twitter.com/1adnansami1" target="_blank">
@@ -36,7 +36,7 @@
 
 ---
 
-<table align="left">
+<table align="center">
   <tr>
     <td><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a></td>
     <td><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a></td>
