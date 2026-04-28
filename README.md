@@ -14,11 +14,13 @@
 
 ---
 
-<p align="center">
+<table align="center">
+  <tr>
 <a href="https://twitter.com/1adnansami1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/adnansamialtıntaş" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://instagram.com/adnan.altns" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/></a>
-</p>
+  </tr>
+</table>
 
 ---
 
